@@ -90,3 +90,6 @@ Please make sure to update tests as appropriate.
 🎂 >> https://hackernoon.com/using-accesscontrolsol-a-how-to-guide-0c3c325t <br>
 🍭 >> https://blog.coincodecap.com/proposing-future-ethereum-access-control <br>
 🍭 >> https://docs.openzeppelin.com/contracts/3.x/access-control <br>
+
+More {!/warning: I'm not reading that}
+🍳 >> https://hiddentao.com/archives/2020/03/21/advanced-role-based-access-control-in-solidity
