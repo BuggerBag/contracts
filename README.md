@@ -1,10 +1,9 @@
+>> https://hackernoon.com/ownership-and-access-control-in-solidity-nn7g3xo3
+>> https://hackernoon.com/using-accesscontrolsol-a-how-to-guide-0c3c325t
 <div align="center">
     <img width="300" alt="Icons made by Eucalyp from www.flaticon.com" src="rocking.svg">
     <h1>HQ20 contracts</h1>
     <div>
-        <a
-            href="https://app.netlify.com/sites/hq20-contracts/deploys"><img
-                src="https://api.netlify.com/api/v1/badges/13cb75c8-7d47-4cb9-808d-1657b46091c4/deploy-status" /></a>&emsp;
         <a
             href="https://travis-ci.com/HQ20/contracts"><img
                 src="https://travis-ci.com/HQ20/contracts.svg?branch=dev" /></a>&emsp;
