@@ -88,3 +88,5 @@ Please make sure to update tests as appropriate.
 🎂 Access control usefull link as follow: <br>
 🎂 >> https://hackernoon.com/ownership-and-access-control-in-solidity-nn7g3xo3 <br>
 🎂 >> https://hackernoon.com/using-accesscontrolsol-a-how-to-guide-0c3c325t <br>
+🍔 >> https://blog.coincodecap.com/proposing-future-ethereum-access-control
+🍔 >> https://docs.openzeppelin.com/contracts/3.x/access-control
