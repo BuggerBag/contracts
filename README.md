@@ -1,6 +1,3 @@
-Access control usefull link as follow:
->> https://hackernoon.com/ownership-and-access-control-in-solidity-nn7g3xo3 <br>
->> https://hackernoon.com/using-accesscontrolsol-a-how-to-guide-0c3c325t <br>
 <div align="center">
     <img width="300" alt="Icons made by Eucalyp from www.flaticon.com" src="rocking.svg">
     <h1>HQ20 contracts</h1>
@@ -86,3 +83,8 @@ Please make sure to update tests as appropriate.
 
 ## License
 [Apache-2.0](LICENSE)
+
+## Reading article
+🎂 Access control usefull link as follow: <br>
+🎂 >> https://hackernoon.com/ownership-and-access-control-in-solidity-nn7g3xo3 <br>
+🎂 >> https://hackernoon.com/using-accesscontrolsol-a-how-to-guide-0c3c325t <br>
